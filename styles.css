@@ -1,0 +1,36 @@
+body {
+  background-color: #42C2FF;
+  font-family: 'Concert One', cursive;
+  color: #041C32;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px auto 20px;
+  font-size: 5rem;
+}
+
+h2 {
+  margin: 10px auto 0;
+  font-size: 7rem;
+}
+
+table {
+  margin: auto auto 0;
+}
+
+td {
+  padding: 20px 40px;
+}
+
+.dice-area {
+  padding: 35px 30px 40px;
+}
+
+.player-name {
+  font-size: 2rem;
+}
+
+.player-dice {
+  width: 200px;
+}
